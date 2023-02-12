@@ -1,1 +1,1 @@
-# Construct2-rich-presence
+# Construct2-discord-richpresence
