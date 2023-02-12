@@ -1,5 +1,5 @@
 # Construct2 Discord RPC
-- You can show "Playing Constrcut 2" status,
+- You can show "Playing Construct 2" status,
 - and project name
 
 # How To Use ?
